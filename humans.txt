@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Christian Wettstein		christian.wettstein@qubitsenergy.com
 
 # THANKS
 
